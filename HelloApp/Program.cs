@@ -4,6 +4,8 @@
         static void Main(string[] args)
         {
             System.Console.WriteLine("hello everyone");
+            GreetWHite();
+            GreetBlack();
         }
 
         static void GreetWHite()
