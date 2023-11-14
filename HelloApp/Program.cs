@@ -5,5 +5,10 @@
         {
             System.Console.WriteLine("hello");
         }
+
+        static void GreetWHite()
+        {
+            System.Console.WriteLine("hello white");
+        }
     }
 }
